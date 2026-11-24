@@ -9,14 +9,10 @@ A personal finance dashboard that turns transaction history into clear spending 
 - Explore spending by category and over time
 - Automatically categorize common transaction descriptions
 - Detect unusual expenses with Isolation Forest
-- Forecast upcoming monthly expenses using a time-series regression model
+- Forecast upcoming monthly expenses using a machine-learning regression model
 - Generate saving recommendations from spending patterns
 - Filter transactions by date, type, and category
-- Export filtered transactions and a monthly report
-
-## Preview
-
-Run the application locally to explore the interactive dashboard.
+- Export filtered transactions and a financial summary
 
 ## Getting started
 
@@ -72,6 +68,7 @@ An example file is available at `data/sample_transactions.csv`.
 
 ```
 finsight-ai/
+├── .github/workflows/tests.yml
 ├── app.py
 ├── finance_engine.py
 ├── data/
@@ -90,4 +87,4 @@ pytest
 
 ## Built with
 
-Python · Streamlit · Pandas · Plotly · Scikit-learn · SQLite
+Python · Streamlit · Pandas · Plotly · Scikit-learn
