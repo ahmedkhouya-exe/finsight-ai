@@ -1,0 +1,73 @@
+date,description,amount,type,category
+2026-01-02,Monthly salary,5200,income,Salary
+2026-01-03,Apartment rent,1500,expense,Housing
+2026-01-04,Carrefour groceries,245,expense,Groceries
+2026-01-06,Metro monthly pass,80,expense,Transport
+2026-01-08,Restaurant dinner,95,expense,Dining
+2026-01-10,Electricity bill,145,expense,Utilities
+2026-01-12,Freelance website,650,income,Freelance
+2026-01-14,Coffee shop,28,expense,Dining
+2026-01-16,Pharmacy,42,expense,Health
+2026-01-19,Online shopping,180,expense,Shopping
+2026-01-22,Carrefour groceries,210,expense,Groceries
+2026-01-25,Mobile subscription,35,expense,Utilities
+2026-02-02,Monthly salary,5200,income,Salary
+2026-02-03,Apartment rent,1500,expense,Housing
+2026-02-04,Lidl groceries,265,expense,Groceries
+2026-02-06,Metro monthly pass,80,expense,Transport
+2026-02-08,Restaurant dinner,120,expense,Dining
+2026-02-10,Internet bill,55,expense,Utilities
+2026-02-12,Freelance website,420,income,Freelance
+2026-02-14,Cinema tickets,65,expense,Entertainment
+2026-02-17,Pharmacy,38,expense,Health
+2026-02-20,Clothing store,230,expense,Shopping
+2026-02-23,Lidl groceries,195,expense,Groceries
+2026-02-26,Water bill,30,expense,Utilities
+2026-03-02,Monthly salary,5200,income,Salary
+2026-03-03,Apartment rent,1500,expense,Housing
+2026-03-04,Carrefour groceries,280,expense,Groceries
+2026-03-06,Metro monthly pass,80,expense,Transport
+2026-03-08,Restaurant dinner,110,expense,Dining
+2026-03-10,Electricity bill,160,expense,Utilities
+2026-03-12,Freelance website,500,income,Freelance
+2026-03-15,Gym membership,160,expense,Health
+2026-03-18,Online shopping,195,expense,Shopping
+2026-03-21,Carrefour groceries,235,expense,Groceries
+2026-03-24,Concert ticket,140,expense,Entertainment
+2026-03-27,Mobile subscription,35,expense,Utilities
+2026-04-02,Monthly salary,5200,income,Salary
+2026-04-03,Apartment rent,1500,expense,Housing
+2026-04-04,Lidl groceries,255,expense,Groceries
+2026-04-06,Metro monthly pass,80,expense,Transport
+2026-04-08,Restaurant dinner,135,expense,Dining
+2026-04-10,Internet bill,55,expense,Utilities
+2026-04-12,Freelance website,700,income,Freelance
+2026-04-15,Pharmacy,48,expense,Health
+2026-04-18,Electronics store,890,expense,Shopping
+2026-04-21,Lidl groceries,225,expense,Groceries
+2026-04-24,Weekend trip,420,expense,Travel
+2026-04-27,Water bill,32,expense,Utilities
+2026-05-02,Monthly salary,5200,income,Salary
+2026-05-03,Apartment rent,1500,expense,Housing
+2026-05-04,Carrefour groceries,275,expense,Groceries
+2026-05-06,Metro monthly pass,80,expense,Transport
+2026-05-08,Restaurant dinner,145,expense,Dining
+2026-05-10,Electricity bill,155,expense,Utilities
+2026-05-12,Freelance website,550,income,Freelance
+2026-05-15,Gym membership,160,expense,Health
+2026-05-18,Clothing store,260,expense,Shopping
+2026-05-21,Carrefour groceries,240,expense,Groceries
+2026-05-24,Weekend trip,380,expense,Travel
+2026-05-27,Mobile subscription,35,expense,Utilities
+2026-06-02,Monthly salary,5200,income,Salary
+2026-06-03,Apartment rent,1500,expense,Housing
+2026-06-04,Lidl groceries,290,expense,Groceries
+2026-06-06,Metro monthly pass,80,expense,Transport
+2026-06-08,Restaurant dinner,155,expense,Dining
+2026-06-10,Internet bill,55,expense,Utilities
+2026-06-12,Freelance website,600,income,Freelance
+2026-06-15,Pharmacy,45,expense,Health
+2026-06-18,Online shopping,210,expense,Shopping
+2026-06-21,Lidl groceries,250,expense,Groceries
+2026-06-24,Weekend trip,460,expense,Travel
+2026-06-27,Water bill,34,expense,Utilities
